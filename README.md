@@ -38,4 +38,6 @@ pyAesCrypt
 
 # Running the code:
 
+Ensure all files mentioned above are in the same directory
+
 You can run the test file using the command python3 test.py
