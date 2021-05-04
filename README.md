@@ -19,7 +19,7 @@ https://www.cryptoexamples.com/python_cryptography_string_signature_rsa.html
 
 https://medium.com/coinmonks/python-tutorial-build-a-blockchain-713c706f6531
 
-Files:
+# Files:
 
 Test.py - main code for the demo, run this. This runs through the use case described in the paper
 Patient.py - implements class for a Patient node. Receives record from a Provider node and can share the record with a Third Party Verifier
@@ -28,7 +28,7 @@ Blockchain.py - basic implementation of a blockchain
 
 During the test, several txt files are generated. Please see a detailed description of each in the comments of Test.py
 
-Dependencies:
+# Dependencies:
 
 Python 3.8
 
@@ -36,6 +36,6 @@ Libraires used -
 cryptography
 pyAesCrypt
 
-Running the code:
+# Running the code:
 
 You can run the test file using the command python3 test.py
